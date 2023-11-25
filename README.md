@@ -1,8 +1,8 @@
 <img src="https://camo.githubusercontent.com/037de8ab87880ce0767db7b058c4a19d2c709ffc71fc06112e159407506a85d5/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f677765622d756e69626c6f672d7075626c6973682d70726f642f6f726967696e616c5f696d616765732f616e64726f69645f31325f646576656c6f7065725f707265766965772e676966"/>
 <br/><br/>
 <h1 text-align="center"> Hi 👋, I'm Muhammad Umar <h1/>
-  <h3>A passionate Full Stack Web Developer(React & Node Js) from Pakistan. </h3><br/>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
+  <h3>A passionate Full Stack Web Developer(React & Node Js) from Pakistan. </h3>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/><br/>
  <h2> # 💫 About Me:</h2><br/><br/>
 ☕I am Full Stack Android Developer(JAVA)& UI/UX Designer.
 <br><br>😎I am Currently a student of Software Engineering.<br><br>😉I have some Experience of making Web Applications and Good UI designs.<br><br>🔭 I’m currently working to up my skills.<br><br>🌱 I’m currently learning Web Development with ( React & Node JS )..<br><br>👯 I’m looking to collaborate with you if you need any help of me.<br><br>🤝 I’m looking for help with your help to give me great advices.<br><br>💬 Ask me about Java , C++ , HTML and Web Developement.<br><br>📫 How to reach me umarfaisalumarfaisal447@gmail.com<br><br>🥰Happy to Hear you! Lets Connect.
